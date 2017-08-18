@@ -1,1 +1,1 @@
-*.js @andy-hanson
+* @andy-hanson
